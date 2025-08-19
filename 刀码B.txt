@@ -575,7 +575,7 @@
 毵	cvjf
 参	cvjj
 螓	cvjm
-叁	cvkk
+叁	cvgk
 匦	cvru
 蚨	cvv
 乐	cw
@@ -1483,7 +1483,7 @@
 荆	hkhj
 荚	hkhy
 蕤	hkjg
-兰	hkk
+兰	hg
 藏	hkkl
 茉	hkkm
 某	hkm
@@ -2931,7 +2931,7 @@
 阌	lnjz
 闩	lnk
 诅	lnk
-闫	lnkk
+闫	lngk
 阈	lnkl
 阑	lnkw
 阆	lnla
@@ -3172,7 +3172,7 @@
 模	mhbv
 椹	mhcy
 柑	mhk
-栏	mhkk
+栏	mhg
 棋	mhky
 檬	mhnc
 槿	mhog
@@ -4704,7 +4704,7 @@
 搛	rhei
 搠	rhen
 拼	rhh
-拦	rhkk
+拦	rhg
 撕	rhkt
 捞	rhnp
 撒	rhns
@@ -5307,7 +5307,7 @@
 俅	tkil
 俨	tkis
 仁	tkk
-仨	tkkk
+仨	tgk
 傅	tknl
 俪	tknl
 俩	tkny
@@ -5616,7 +5616,7 @@
 舂	vee
 此	vf
 套	vf
-些	vfkk
+些	vfg
 砦	vfko
 龙	vfl
 訾	vfl
@@ -5885,7 +5885,7 @@
 怦	wkhi
 缙	wkib
 孤	wkjl
-承	wkkx
+承	wgkx
 孟	wknh
 缚	wknl
 勐	wknp
