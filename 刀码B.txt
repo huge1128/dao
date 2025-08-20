@@ -59,7 +59,6 @@
 篡	aafc
 算	aafh
 篾	aafl
-褙	akfn
 筚	aafr
 箩	aafs
 纂	aafw
@@ -84,7 +83,6 @@
 筛	aaie
 篮	aaih
 簿	aail
-筷	aawv
 筅	aajb
 篼	aajb
 篁	aaje
@@ -139,6 +137,7 @@
 笼	aavl
 第	aawi
 筲	aawn
+筷	aawv
 簦	aaxh
 笮	aaya
 筌	aaye
@@ -210,6 +209,7 @@
 饫	ajv
 馁	ajx
 饨	ake
+褙	akfn
 袜	akkm
 福	akod
 祆	akv
@@ -4557,9 +4557,9 @@
 镢	qshy
 锪	qsju
 钓	qsl
-锋	qslr
 铭	qso
 铬	qsqo
+锋	qsqr
 钨	qssk
 钦	qsy
 钉	qt
@@ -6780,6 +6780,4 @@
 硚	koji
 啫	ogjb
 𬎆	ehnl
-
 𬱖	idty
-
