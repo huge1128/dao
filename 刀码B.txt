@@ -1075,6 +1075,7 @@
 聒	frjo
 耽	frnb
 聃	frng
+置	frnk
 罱	frnr
 聍	frnt
 罟	fro
@@ -1255,7 +1256,6 @@
 墙	grho
 寺	grl
 埴	grnk
-置	grnk
 填	grny
 亏	gs
 均	gsd
@@ -6781,4 +6781,5 @@
 啫	ogjb
 𬎆	ehnl
 𬱖	idty
+
 
