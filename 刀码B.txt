@@ -210,7 +210,7 @@
 馁	ajx
 饨	ake
 褙	akfn
-袜	akkm
+袜	akkw
 福	akod
 祆	akv
 饶	akxb
@@ -1485,7 +1485,7 @@
 蕤	hkjg
 兰	hg
 藏	hkkl
-茉	hkkm
+茉	hkkw
 某	hkm
 莆	hkni
 蔌	hkoy
@@ -1973,7 +1973,7 @@
 卡	iki
 涿	ikjc
 博	ikkl
-沫	ikkm
+沫	ikkw
 浦	ikni
 溥	iknl
 涑	ikow
@@ -2358,7 +2358,7 @@
 乘	jmkf
 秤	jmki
 剩	jmkj
-秣	jmkm
+秣	jmkw
 秆	jmkr
 穗	jmku
 稂	jmla
@@ -2604,7 +2604,7 @@
 版	kjs
 二	kk
 臧	kkcl
-末	kkm
+末	kkw
 戕	kkxl
 牖	klpi
 未	km
@@ -4762,7 +4762,7 @@
 抨	rkhi
 拭	rkhl
 挟	rkhy
-抹	rkkm
+抹	rkkw
 壹	rknh
 捕	rkni
 壳	rknj
@@ -6781,3 +6781,4 @@
 啫	ogjb
 𬎆	ehnl
 𬱖	idty
+
