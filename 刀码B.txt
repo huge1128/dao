@@ -59,7 +59,7 @@
 篡	aafc
 算	aafh
 篾	aafl
-褙	aafn
+褙	akfn
 筚	aafr
 箩	aafs
 纂	aafw
@@ -84,7 +84,7 @@
 筛	aaie
 篮	aaih
 簿	aail
-筷	aaiv
+筷	aawv
 筅	aajb
 篼	aajb
 篁	aaje
@@ -6782,3 +6782,4 @@
 𬎆	ehnl
 
 𬱖	idty
+
