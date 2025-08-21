@@ -1640,7 +1640,6 @@
 蓐	hskl
 葳	hskl
 芍	hsl
-蓬	hslq
 蒇	hsnl
 苟	hso
 茗	hso
@@ -1652,6 +1651,7 @@
 苊	hsp
 苑	hsp
 苈	hspp
+蓬	hsqq
 苞	hsuu
 葱	hsxu
 芡	hsy
@@ -3292,12 +3292,12 @@
 槭	msil
 橱	mskl
 杓	msl
-格	mslo
 桷	msn
 槲	msnr
 枸	mso
 橡	msoc
 枥	mspp
+格	msqo
 檐	mssl
 桅	mssp
 杞	mtc
@@ -3971,10 +3971,10 @@
 吻	osjj
 唿	osju
 喊	oskl
-咚	osll
 唤	osnv
 呃	osp
 呖	ospp
+咚	osql
 咯	osqo
 哆	oss
 呜	ossk
@@ -4332,12 +4332,12 @@
 癣	psdt
 陷	psee
 隐	pseu
-隆	pslg
-降	psli
 疚	psll
-疼	psll
 痪	psnv
 疬	pspp
+隆	psqg
+降	psqi
+疼	psql
 疱	psuu
 疔	pt
 陌	ptb
@@ -5117,8 +5117,8 @@
 訇	sl
 勺	sl
 久	sll
+灸	slly
 戍	slxl
-灸	slyy
 厢	smf
 角	sn
 触	snc
@@ -6781,6 +6781,7 @@
 啫	ogjb
 𬎆	ehnl
 𬱖	idty
+
 
 
 
