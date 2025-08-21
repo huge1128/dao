@@ -6770,7 +6770,7 @@
 焗	yypo
 槃	nrjm
 屌	poe
-咁	oh
+咁	ohk
 嘢	obgj
 瑄	enkk
 甪	jn
@@ -6781,5 +6781,6 @@
 啫	ogjb
 𬎆	ehnl
 𬱖	idty
+
 
 
