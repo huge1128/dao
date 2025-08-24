@@ -1972,7 +1972,6 @@
 浃	ikhy
 卡	iki
 涿	ikjc
-博	ikkl
 沫	ikkw
 浦	ikni
 溥	iknl
@@ -4767,6 +4766,7 @@
 捕	rkni
 壳	rknj
 壶	rknk
+博	rknl
 搏	rknl
 悫	rknu
 懿	rknu
@@ -6781,6 +6781,7 @@
 啫	ogjb
 𬎆	ehnl
 𬱖	idty
+
 
 
 
