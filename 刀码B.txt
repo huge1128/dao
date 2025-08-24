@@ -5316,13 +5316,13 @@
 袋	tkua
 岱	tkue
 代	tkul
-伐	tkul
 牮	tkur
 黛	tkuw
 贷	tkuy
 仗	tkx
 侥	tkxb
 垡	tkxg
+伐	tkxl
 信	tl
 住	tle
 储	tlgb
@@ -6781,6 +6781,7 @@
 啫	ogjb
 𬎆	ehnl
 𬱖	idty
+
 
 
 
