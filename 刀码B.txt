@@ -1782,7 +1782,7 @@
 萃	hzyr
 茭	hzyx
 蒡	hzzd
-卜	i
+水	i
 滗	iaaf
 汔	iaz
 汽	iaz
@@ -1985,6 +1985,7 @@
 督	ikwf
 忐	ikwu
 叔	ikwz
+卜	il
 瀛	ilcl
 鎏	ilcq
 澈	ilcs
@@ -2532,7 +2533,6 @@
 盈	jwzh
 戤	jwzl
 风	jx
-水	jx
 妥	jx
 飕	jxez
 飓	jxny
@@ -6782,3 +6782,4 @@
 玥	en
 𬎆	ehnl
 𬱖	idty
+
