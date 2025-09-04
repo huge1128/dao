@@ -365,8 +365,8 @@
 晖	bnvr
 晕	bnvr
 晏	bnx
+暇	bpgz
 昵	bpf
-暇	bpkz
 早	br
 时	brl
 昀	bsd
@@ -899,9 +899,9 @@
 崛	epeu
 璩	epfc
 琥	epfj
+瑕	epgz
 岷	epku
 珉	epku
-瑕	epkz
 珈	eppo
 琚	epro
 玻	epz
@@ -1601,9 +1601,9 @@
 节	hp
 邛	hp
 蘧	hpfq
+葭	hpgz
 蔚	hpgl
 苠	hpku
-葭	hpkz
 荩	hpll
 荫	hpn
 薜	hpor
@@ -1978,7 +1978,6 @@
 涑	ikow
 濑	ikoy
 漱	ikoy
-协	ikpy
 汗	ikr
 洌	iksj
 添	ikvw
@@ -4300,8 +4299,8 @@
 嬖	pozx
 疖	pp
 力	pp
+瘕	ppgz
 癜	pphz
-瘕	ppkz
 加	ppo
 袈	ppoa
 架	ppom
@@ -4858,6 +4857,7 @@
 摒	rphh
 抿	rpku
 擗	rpor
+协	rppy
 据	rpro
 报	rpz
 披	rpz
@@ -5363,7 +5363,7 @@
 促	tov
 倔	tpeu
 伲	tpf
-假	tpkz
+假	tpgz
 书	tpl
 僻	tpor
 仂	tpp
@@ -6912,3 +6912,4 @@
 汭	iny
 巉	esol
 癿	jbu
+𨳇  kpkp
