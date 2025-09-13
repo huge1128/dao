@@ -1740,7 +1740,6 @@
 蔽	hyes
 芥	hyji
 荟	hykc
-检	hykk
 莶	hykk
 荼	hykm
 蔹	hyks
@@ -3336,6 +3335,7 @@
 柞	myk
 桧	mykc
 榆	mykj
+检	mykk
 柃	myld
 株	mym
 楼	mymx
@@ -6913,3 +6913,4 @@
 巉	esol
 癿	jbu
 𨳇  kpkp
+
