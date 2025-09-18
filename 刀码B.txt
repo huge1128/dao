@@ -4914,6 +4914,7 @@
 扯	rv
 掩	rvbu
 抟	rvd
+拣	rvdy
 拢	rvfl
 挎	rvgs
 捺	rvgw
@@ -4924,7 +4925,6 @@
 扶	rvv
 扰	rvvl
 撵	rvvr
-拣	rvw
 撩	rvyw
 拔	rvzl
 拨	rvzl
@@ -6913,4 +6913,5 @@
 巉	esol
 癿	jbu
 𨳇  kpkp
+
 
