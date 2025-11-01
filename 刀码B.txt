@@ -182,9 +182,9 @@
 饵	afr
 社	ag
 裱	aga
+饯	agfl
 褂	aggi
 褚	agjb
-饯	agxl
 馍	ahbv
 饼	ahh
 祺	ahky
@@ -210,7 +210,7 @@
 馁	ajx
 饨	ake
 褙	akfn
-袜	akkm
+袜	akkw
 福	akod
 祆	akv
 饶	akxb
@@ -336,7 +336,6 @@
 旦	bk
 量	bkbg
 昙	bkc
-晟	bkdl
 昧	bkm
 晡	bkni
 旰	bkr
@@ -370,6 +369,7 @@
 早	br
 时	brl
 昀	bsd
+晟	bsdl
 剔	bsjj
 易	bsjj
 晨	bska
@@ -666,7 +666,7 @@
 畈	djs
 刁	dk
 囤	dke
-曰	dkkk
+曰	dkk
 圃	dkni
 司	dko
 冽	dksj
@@ -946,13 +946,13 @@
 祟	eugw
 粜	euym
 崦	evbu
+珑	evfl
 帱	evrl
 琏	evrq
 崭	evrt
 崎	evto
 琦	evto
 岽	evw
-珑	evxl
 炭	evyy
 肃	ewji
 峭	ewn
@@ -1124,7 +1124,7 @@
 眩	fzw
 土	g
 表	ga
-裁	gaxl
+裁	gafl
 元	gb
 塌	gbdd
 墁	gbfz
@@ -1213,7 +1213,6 @@
 垣	gkbk
 埂	gkbx
 坛	gkc
-城	gkdl
 坪	gkhi
 垭	gkik
 埔	gkni
@@ -1225,7 +1224,7 @@
 圹	gls
 墉	glsi
 塘	glso
-栽	gmxl
+栽	gmfl
 青	gn
 坨	gnf
 垸	gngb
@@ -1240,9 +1239,9 @@
 坍	gnz
 袁	goa
 埕	goe
+哉	gofl
 埚	gony
 埙	gony
-哉	goxl
 韦	gp
 韫	gpbh
 韧	gpdl
@@ -1260,6 +1259,7 @@
 填	grny
 亏	gs
 均	gsd
+城	gsdl
 塬	gsjw
 堍	gsol
 坜	gspp
@@ -1484,7 +1484,7 @@
 荚	hkhy
 蕤	hkjg
 藏	hkkl
-茉	hkkm
+茉	hkkw
 某	hkm
 莆	hkni
 蔌	hkoy
@@ -1971,7 +1971,7 @@
 浃	ikhy
 卡	iki
 涿	ikjc
-沫	ikkm
+沫	ikkw
 浦	ikni
 溥	iknl
 涑	ikow
@@ -2553,8 +2553,6 @@
 运	kcq
 万	kd
 虿	kdc
-盛	kdfh
-成	kdfl
 趸	kdov
 迈	kdq
 画	kdu
@@ -2895,7 +2893,6 @@
 诞	ljvq
 讽	ljx
 设	ljz
-诚	lkdl
 评	lkhi
 诫	lkhl
 试	lkhl
@@ -2995,6 +2992,7 @@
 底	lscl
 廖	lsdj
 序	lsdj
+诚	lsdl
 诌	lse
 谄	lsee
 康	lsei
@@ -4205,6 +4203,7 @@
 阮	pgb
 屠	pgjb
 痔	pgrl
+遐	pguq
 陡	pgv
 际	pgw
 尉	pgwl
@@ -4255,7 +4254,6 @@
 陕	pkhy
 痖	pkik
 瘃	pkjc
-遐	pkkq
 陋	pknq
 病	pkny
 痘	pkoh
@@ -4416,12 +4414,12 @@
 镡	qccr
 镖	qccw
 镏	qcdd
+钺	qcfl
 铘	qcip
 铆	qcjp
 钷	qco
 钜	qcu
 铄	qcw
-钺	qcxl
 钿	qd
 钾	qdi
 镅	qdjf
@@ -4491,7 +4489,6 @@
 锨	qjty
 锾	qjtz
 铁	qjvv
-铖	qkdl
 钝	qke
 铙	qkfb
 铗	qkhy
@@ -4549,6 +4546,7 @@
 钩	qsc
 钧	qsd
 镥	qsdb
+铖	qsdl
 铯	qsdu
 铮	qsej
 镢	qshy
@@ -4762,7 +4760,7 @@
 抨	rkhi
 拭	rkhl
 挟	rkhy
-抹	rkkm
+抹	rkkw
 壹	rknh
 捕	rkni
 壳	rknj
@@ -5028,7 +5026,9 @@
 鲵	sdeb
 鲟	sdel
 鲫	sdep
+盛	sdfh
 鳏	sdfi
+成	sdfl
 鲰	sdfz
 鳍	sdgb
 鲑	sdgg
@@ -5117,9 +5117,9 @@
 欤	sksy
 訇	sl
 勺	sl
+戍	slfl
 久	sll
 灸	slly
-戍	slxl
 厢	smf
 角	sn
 触	snc
@@ -6912,6 +6912,4 @@
 汭	iny
 巉	esol
 癿	jbu
-𨳇  kpkp
-
-
+𨳇	kpkp
