@@ -5381,7 +5381,6 @@
 做	tros
 伎	trz
 马	ts
-骥	tsay
 骒	tsbm
 骝	tscd
 骖	tscj
@@ -5400,6 +5399,7 @@
 骢	tsju
 骁	tskb
 骊	tskl
+骥	tsky
 骟	tsld
 驻	tsle
 骗	tslh
